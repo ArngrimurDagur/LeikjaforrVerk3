@@ -1,6 +1,9 @@
 # LeikjaforrVerk3
 https://youtu.be/7LZ-afY3qXI
 
+## Lýsing
+### Þessi leikur snýst um að hlaupa yfir brú og skjóta rauðu kassana í endanum án þess að deyja frá vonduköllunum á leiðinni.
+
 ## Kassi.cs
 ### Þessi skripta höndlar kassana og gefur stigin
 
